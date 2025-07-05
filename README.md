@@ -33,9 +33,8 @@
 </div>
 
 ---
+### 🎮 GitHub Snake
 
-<!-- 🐍 Snake GitHub contribution graph (only works if you set it up manually) -->
-<!--
 <img src="https://raw.githubusercontent.com/SamiMadane/SamiMadane/output/dist/snake.svg" alt="Snake animation" />
--->
+
 
