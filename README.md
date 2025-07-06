@@ -22,49 +22,39 @@ Currently, I’m eager to collaborate on projects where technology drives real-w
 ---
 
 ### 🛠️ Languages & Tools:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter" style="margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart" style="margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase" style="margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="25" alt="android" style="margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="25" alt="ios" style="margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git" style="margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github" style="margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode" style="margin: 0 8px;" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="30" alt="flutter" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="30" alt="dart" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="30" alt="firebase" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="30" alt="android" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="30" alt="ios" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" alt="git" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" alt="github" style="margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" alt="vscode" style="margin: 0 8px;" />
 </div>
 
 ---
 
 ### 📂 Projects
 
-[LeukoCare]((https://github.com/SamiMadane/leuko-ai)) — A comprehensive medical app for leukemia patients.
+[LeukoAi](https://github.com/SamiMadane/leuko-ai) — A comprehensive medical app for leukemia patients.
 
 
 
 ---
-
 ### 📫 Connect with me:
-<table align="center" cellspacing="10">
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/samimadane/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td>
-        <a href="mailto:samimadane23@gmail.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.instagram.com/samimadane/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
+  <a href="https://www.linkedin.com/in/samimadane/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:samimadane23@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/samimadane/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
+  </a>
+</div>
+
 
 ---
 
