@@ -37,7 +37,8 @@ Currently, I’m eager to collaborate on projects where technology drives real-w
 
 ### 📂 Projects
 
-- [LeukoCare](https://github.com/SamiMadane/leuko_care) — تطبيق طبي متكامل لمرضى اللوكيميا.
+[LeukoCare]((https://github.com/SamiMadane/leuko-ai)) — A comprehensive medical app for leukemia patients.
+
 
 
 ---
@@ -47,17 +48,17 @@ Currently, I’m eager to collaborate on projects where technology drives real-w
   <tbody>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/samimadane/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"/>
         </a>
       </td>
       <td>
-        <a href="mailto:yourmail@gmail.com" target="_blank" rel="noopener noreferrer">
+        <a href="mailto:samimadane23@gmail.com" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"/>
         </a>
       </td>
       <td>
-        <a href="https://instagram.com/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/samimadane/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram"/>
         </a>
       </td>
